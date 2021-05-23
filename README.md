@@ -1,8 +1,17 @@
+# sol-AtCoderHC003
+
+https://atcoder.jp/contests/ahc003
+
+# NOTE
+
+リアクティブ形式の問題のため、ツールの一部が使えない…  
+どうするかは検討中
+
+- solver は答えを知ることが出来ない
+
 # mmworkspace
 
 workspace for heuristic contest
-
-based on https://github.com/buyoh/codetesting
 
 # quick start guide
 
