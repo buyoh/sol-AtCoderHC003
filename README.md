@@ -2,6 +2,8 @@
 
 https://atcoder.jp/contests/ahc003
 
+344位
+
 # NOTE
 
 リアクティブ形式の問題のため、ツールの一部が使えない…  
